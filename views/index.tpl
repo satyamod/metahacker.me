@@ -55,6 +55,9 @@
        <a class="left" href="https://plus.google.com/u/0/114062928492905880820" target="_blank">
          <img src="/static/img/google-plus-icon.png" />
        </a>
+              <a class="left" href="https://www.linkedin.com/" target="_blank">
+         <img src="/static/img/google-plus-icon.png" />
+       </a>
       <span>
         This site powered by <a href="{{.Beego}}">Beego</a>
       </span>
